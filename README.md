@@ -28,5 +28,5 @@ Clone the repository and install the required packages:
 
 ```bash
 git clone https://github.com/itz-abhay/CiFAR-10-Image_Classification.git
-cd cifar-10-classification
+cd cifar-10-Image_Classification
 pip install -r requirements.txt
