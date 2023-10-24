@@ -1,7 +1,4 @@
-# CiFAR-Classification-Model
-
-
-# CIFAR-10 Image Classification
+# CiFAR-10-Image_Classification
 
 ![CIFAR-10](https://img.shields.io/badge/dataset-CIFAR--10-blue.svg)
 ![Python](https://img.shields.io/badge/python-3.6%20%7C%203.7%20%7C%203.8-blue.svg)
@@ -30,6 +27,6 @@ This repository contains code for a high-accuracy CIFAR-10 image classification 
 Clone the repository and install the required packages:
 
 ```bash
-git clone https://github.com/your-username/cifar-10-classification.git
+git clone https://github.com/itz-abhay/CiFAR-10-Image_Classification.git
 cd cifar-10-classification
 pip install -r requirements.txt
